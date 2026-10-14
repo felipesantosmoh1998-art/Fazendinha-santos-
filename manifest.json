@@ -1,0 +1,27 @@
+{
+  "id": "./fazendinha_santos_v9_12_mobile.html",
+  "name": "Fazendinha Santos",
+  "short_name": "Fazendinha",
+  "description": "Cuide da fazenda, plante, colha e cuide dos animais.",
+  "lang": "pt-BR",
+  "start_url": "./fazendinha_santos_v9_12_mobile.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eaf5df",
+  "theme_color": "#287a42",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

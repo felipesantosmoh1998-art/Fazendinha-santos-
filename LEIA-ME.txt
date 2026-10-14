@@ -1,0 +1,20 @@
+FAZENDINHA SANTOS v9.12 MOBILE
+
+Conteúdo do pacote:
+- fazendinha_santos_v9_12_mobile.html: jogo atualizado
+- manifest.json: configuração de instalação como app web
+- service-worker.js: cache/offline básico após a primeira abertura
+- icon-192.svg e icon-512.svg: ícones do app
+
+COMO PUBLICAR NO REPOSITÓRIO PELO CELULAR
+1. Abra o repositório GitHub da Fazendinha Santos.
+2. Envie os cinco arquivos para a pasta principal (raiz) do repositório.
+3. Não apague o arquivo antigo; primeiro teste o novo HTML.
+4. Aguarde o GitHub Pages atualizar.
+5. Abra: https://felipesantosmoh1998-art.github.io/Fazendinha-santos-/fazendinha_santos_v9_12_mobile.html
+6. Para instalar: no Chrome Android, menu ⋮ > Instalar app (ou Adicionar à tela inicial).
+
+NOTAS
+- A jogabilidade e o progresso são os da base v9.11, com controles touch aprimorados e experiência PWA.
+- O modo offline só fica disponível depois que a página e seus arquivos forem carregados e o service worker for ativado.
+- Teste primeiro o arquivo novo. O arquivo antigo permanece como cópia de segurança.
